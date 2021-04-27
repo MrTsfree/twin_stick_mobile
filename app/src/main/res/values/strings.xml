@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">twin_stick_shooter</string>
+    <string name="title_text">Twin Stick Hero</string>
+    <string name="main_menu_start_btn">Begin</string>
+</resources>
